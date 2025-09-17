@@ -43,9 +43,9 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Ecommerce completo feito em Spring Boot
+            Ecommerce - Spring Boot
           </p>
-          <p>JAVA - SPRING BOOT - MYSQL - HTML - CSS - JS</p>
+          <p>JAVA - SPRING BOOT - Arquitetura Limpa - Solid</p>
         </div>
 
         <div class="card">
